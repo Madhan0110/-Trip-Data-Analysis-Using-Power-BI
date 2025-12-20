@@ -32,7 +32,7 @@ Trend identification in bookings & revenue
      1. Payment Type
      2. Trip Type (Day/Night)
 
-# # 2️⃣ Time-Based Analysis Dashboard
+## 2️⃣ Time-Based Analysis Dashboard
 Provides insights into booking patterns over time using:
 
   1. 10-minute interval pickup time analysis
