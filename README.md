@@ -1,3 +1,5 @@
+STILL WORK IN PROGRESS......
+
 ## 🚖 Uber Trip Analysis (Power BI Dashboard Project)
 ## 📌 Project Overview
 
@@ -41,7 +43,23 @@ Provides insights into booking patterns over time using:
 
 ## 🔍 Business benefits:
 
-  1. Peak hour identification=
+  1. Peak hour identification
   2. Weekday vs weekend comparison
   3. Driver allocation planning
   4. Better pricing & surge management
+
+## 3️⃣ Detailed Data Grid Tab
+
+Offers deep-dive data exploration:
+
+  1. Interactive grid with trip records
+  2. Drill-through functionality
+  3. Bookmark toggle to switch between:
+     1. A filtered record view
+     2. Full dataset view
+
+## 🎯 Purpose:
+
+  1. Detailed trip inspection
+  2. Contextual analysis
+  3. Data quality validation
